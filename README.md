@@ -1,8 +1,10 @@
-# ADS_surfs_up
-For this part of the Challenge, write a report that describes the key differences in weather between June and December and two recommendations for further analysis.
+## Overview
+The puyrpose of the analysis was to determine whether or not an ice cream business would be profitable in Oahu, Hawaii given the weather in Summer and Winter. The data analyzed was for the months of June and December.
 
-The analysis should contain the following:
+## Results
+- The June temperatures ranged between 64 and 85 degrees with an average of 74.94 degrees. 
+- The December temperatures ranged between 56 and 83 degrees with an average of 71.04.
+- The standard deviation of both months was between 3 and 4 degrees. 
 
-Overview of the analysis: Explain the purpose of this analysis.
-Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
-Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+## Summary
+The temperatures reveal that the business would do well due to the little variation in temperatures. The weather is mostly consistent and warm throughout the year. To get a better understanding of the overall weather, I would look at percipitation data for the two months of June and December to see if there are periods where inclimate weather would hinder the business from being successful. 
